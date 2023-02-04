@@ -1,0 +1,179 @@
+C++
+2958 ms
+2871 ms
+2917 ms
+2929 ms
+2968 ms
+2910 ms
+2917 ms
+2912 ms
+3290 ms
+3028 ms
+
+Python (1)
+57968 ms
+56934 ms
+56998 ms
+54468 ms
+54671 ms
+57461 ms
+55788 ms
+59933 ms
+56712 ms
+58542 ms
+
+Python (2)
+69847 ms
+69622 ms
+71078 ms
+72966 ms
+76699 ms
+72212 ms
+75676 ms
+76739 ms
+74587 ms
+73071 ms
+
+Pypy (1)
+4223 ms
+4264 ms
+4246 ms
+4229 ms
+4309 ms
+4577 ms
+4420 ms
+4373 ms
+4358 ms
+4310 ms
+
+Pypy (2)
+4298 ms
+4083 ms
+4282 ms
+4127 ms
+4103 ms
+4119 ms
+4117 ms
+4139 ms
+4213 ms
+4222 ms
+
+C# (.net 6)
+3121 ms
+3053 ms
+3104 ms
+3054 ms
+3033 ms
+3041 ms
+3038 ms
+3050 ms
+3075 ms
+3052 ms
+
+js (node)
+2925 ms
+2881 ms
+2869 ms
+2863 ms
+2879 ms
+2896 ms
+2860 ms
+2831 ms
+2872 ms
+2905 ms
+
+js (browser)
+3283 ms
+2799 ms
+2752 ms
+2779 ms
+2768 ms
+2798 ms
+2748 ms
+2823 ms
+2844 ms
+2799 ms
+
+Squeak 6
+8824 ms
+8849 ms
+8758 ms
+8671 ms
+8660 ms
+8751 ms
+8758 ms
+8782 ms
+8644 ms
+8689 ms
+
+Clojure (REPL)
+3519 ms
+3465 ms
+3400 ms
+3488 ms
+3472 ms
+3365 ms
+3519 ms
+3525 ms
+3354 ms
+3436 ms
+
+Clojure (jar)
+3290 ms
+3270 ms
+3242 ms
+3337 ms
+3334 ms
+3234 ms
+3272 ms
+3400 ms
+3520 ms
+3287 ms
+
+Clojure (REPL, w/type hints)
+3392 ms
+3307 ms
+3186 ms
+3334 ms
+3353 ms
+3453 ms
+3508 ms
+3363 ms
+3417 ms
+3447 ms
+
+Clojure (jar, w/type hints)
+3079 ms
+3018 ms
+3006 ms
+3010 ms
+3005 ms
+2998 ms
+3005 ms
+3009 ms
+3014 ms
+3008 ms
+
+ClojureScript (node)
+4767 ms
+4673 ms
+4665 ms
+4603 ms
+4614 ms
+4621 ms
+4615 ms
+4635 ms
+4640 ms
+4613 ms
+
+ClojureScript (browser)
+4801 ms
+4572 ms
+4643 ms
+4732 ms
+4627 ms
+4614 ms
+4775 ms
+4688 ms
+4684 ms
+4689 ms
