@@ -64,7 +64,7 @@
                      :cuis-jit "Smalltalk"})
 
 (defn generate-vega-doc []
-  [:div
+  [:div {:style {:display "flex" :flex-wrap "wrap"}}
    [:vega-lite {:data {:values (let [averages (->> data
                                                    (map (fn [[k v]]
                                                           [k (/ (reduce + v)
